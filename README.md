@@ -1,2 +1,3 @@
-# snippets
-A code snippet container
+# The snippets repository
+
+This repository contains a nice selection of beautiful code.
